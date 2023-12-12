@@ -89,4 +89,3 @@ app.post('/register', async (req, resp) => {
 app.listen(port, () => {
     console.log(`App is listening on port ${port}`);
 });
-
